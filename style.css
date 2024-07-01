@@ -1,0 +1,332 @@
+.main{
+    display: flex;
+}
+
+.first{
+    height: 5000vh;
+    width: 250px;
+    background-color: white;
+    border-right: 4px solid rgb(224, 214, 214);
+    position: fixed;
+    z-index: 1;
+}
+
+
+
+.logo{
+    padding: none;
+    height: 40px;
+    width: 140px;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.menu  li i{
+    font-size: 22px;
+    margin-bottom: 40px;
+    margin-left: 5px;
+}
+
+.menu  li a{
+    font-size: 16px;
+    text-decoration: none;
+    margin-left: 15px;
+    color: black;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+
+
+
+
+.mainsecond{
+    height: 5000vh;
+    width: 120vh;
+    background-color: white;
+    border-right: 4px solid rgb(224, 214, 214);
+    position: relative;
+    margin-left: 250px;
+}
+
+.second{
+    border-bottom: 4px solid rgb(224, 214, 214);
+    height: 120px;
+    width: 120vh;
+    cursor: pointer;
+}
+
+.photo{
+    height: 68px;
+    width: 68px;
+    border: 3.5px solid orange;
+    border-radius: 50%;
+     margin-left: 34px;
+     margin-top: 20px;
+}
+
+
+.photo1{
+    height: 50px;
+    width: 50px;
+    border: 3px solid orange;
+    border-radius: 50%;
+    margin-left: 25px;
+    margin-top: 60px;
+}
+
+
+.third{
+    display: flex;
+    position: absolute;
+    margin-left: 140px;
+}
+
+.fourth{
+    position: absolute;
+}
+
+.likha{
+    margin-left: 10px;
+    margin-top: 70px;
+    font-weight: 700;
+}
+
+.likha3{
+    margin-left: 210px;
+    margin-top: 55px;
+    text-decoration: none;
+    color: blue;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.op{
+    height: 500px;
+    width: 500px;
+    margin-top: 150px;
+    margin-left: 10px;
+}
+
+.last{
+    display: flex;
+    position: absolute;
+    margin-left: 1125px;
+}
+
+
+.photo1{
+    height: 50px;
+    width: 50px;
+    border: 3px solid orange;
+    border-radius: 50%;
+    margin-left: 2px;
+    margin-top: 60px;
+}
+
+.likha{
+    margin-left: 10px;
+    margin-top: 70px;
+    font-weight: 700;
+}
+
+.likha2{
+    margin-left: 40px;
+    margin-top: 70px;
+    text-decoration: none;
+    color: blue;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.sugg{
+    margin-top: 160px;
+    margin-left: 1125px;
+    font-size: 20px;
+    font-weight: 700;
+    color: gray;
+    position: absolute;
+    display: flex;
+}
+
+.likha4{
+    margin-left: 105px;
+    margin-top: 1px;
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    font-weight: 700;
+    opacity: 0.8;
+}
+
+
+.lastt{
+    display: flex;
+    position: absolute;
+    margin-left: 1100px;
+}
+
+
+.photo11{
+    height: 50px;
+    width: 50px;
+    border: 3px solid orange;
+    border-radius: 50%;
+    margin-left: 25px;
+    margin-top: 210px;
+}
+
+.likhaa{
+    margin-left: 10px;
+    margin-top: 220px;
+    font-weight: 700;
+}
+
+.likha20{
+    margin-left: 47px;
+    margin-top: 220px;
+    text-decoration: none;
+    color: blue;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+
+
+
+.lasttt{
+    display: flex;
+    position: absolute;
+    margin-left: 1100px;
+}
+
+
+.photo111{
+    height: 50px;
+    width: 50px;
+    border: 3px solid orange;
+    border-radius: 50%;
+    margin-left: 25px;
+    margin-top: 290px;
+}
+
+.likhaaa{
+    margin-left: 10px;
+    margin-top: 300px;
+    font-weight: 700;
+}
+
+.likha200{
+    margin-left: 60px;
+    margin-top: 300px;
+    text-decoration: none;
+    color: blue;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.navbar{
+    margin-top: 520px;
+    margin-left: 130px;
+    color: gray;
+    opacity: 0.5;
+}
+
+.one{
+    margin-top: 470px;
+    margin-left: 20px;
+    color: gray;
+    opacity: 0.5;
+    text-decoration: none;
+    position: absolute;
+}
+
+.two{
+    margin-top: 470px;
+    margin-left: 90px;
+    color: gray;
+    opacity: 0.5;
+    text-decoration: none;
+    position: absolute;
+}
+
+.three{
+    margin-top: 470px;
+    margin-left: 150px;
+    color: gray;
+    opacity: 0.5;
+    text-decoration: none;
+    position: absolute;
+}
+
+.four{
+    margin-top: 470px;
+    margin-left: 230px;
+    color: gray;
+    opacity: 0.5;
+    text-decoration: none;
+    position: absolute;
+}
+
+.five{
+    margin-top: 470px;
+    margin-left: 310px;
+    color: gray;
+    opacity: 0.5;
+    text-decoration: none;
+    position: absolute;
+}
+
+.opp{
+    margin-top: 50px;
+    position: absolute;
+    margin-left: 18px;
+    font-size: 20px;
+    color: gray;
+}
+
+.dil{
+    position: absolute;
+     margin-top: 670px;
+     margin-left: 25px;
+     font-size: 25px;
+}
+
+.do{
+    position: absolute;
+     margin-top: 670px;
+     margin-left: 70px;
+     font-size: 25px;
+}
+
+.sh{
+    position: absolute;
+     margin-top: 670px;
+     margin-left: 115px;
+     font-size: 25px;
+}
+
+.like{
+    position: absolute;
+    margin-top: 710px;
+    margin-left: 22px;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.comment{
+    position: absolute;
+    margin-top: 740px;
+    margin-left: 20px;
+    font-size: 18px;
+    font-weight: 700;
+    color: gray;
+    opacity: 0.8;
+}
+
+.line{
+    margin-top: 770px;
+    margin-left: 160px;
+    width: 490px;
+}
